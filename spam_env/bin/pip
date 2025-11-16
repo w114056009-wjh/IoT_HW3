@@ -1,4 +1,4 @@
-#!/home/wuj09/nchu/IoT_HW3/2025ML-spamEmail/spam_env/bin/python3
+#!/home/wuj09/nchu/IoT_HW3-1/spam_env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
